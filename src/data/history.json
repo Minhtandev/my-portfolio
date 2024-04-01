@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Front-end Developer",
+    "organisation": "Kegmil",
+    "startDate": "June, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Developing new features",
+      "Fix bugs and improve UI/UX",
+      "Refactor legacy code"
+    ],
+    "imageSrc": "history/kegmil.png"
+  }
+]

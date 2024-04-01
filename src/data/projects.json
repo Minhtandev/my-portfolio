@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Students Management",
+    "imageSrc": "projects/project1.png",
+    "description": "A website helps schools manage their students’ information, scores and class",
+    "skills": [
+      "React",
+      "Express",
+      "Nodejs",
+      "MongoDB",
+      "SCSS"
+    ],
+    "demo": "student-management-xi3t.vercel.app",
+    "source": "github.com/Minhtandev/student-management"
+  },
+  {
+    "title": "POPS movies",
+    "imageSrc": "projects/project2.png",
+    "description": "A website allow users to view list of movies, add to their favourites, create reviews,…",
+    "skills": [
+      "React",
+      "Express",
+      "Nodejs",
+      "MongoDB",
+      "SCSS",
+      "Redux"
+    ],
+    "demo": "pops-movie.vercel.app",
+    "source": "github.com/Minhtandev/pops-movie"
+  }
+]
