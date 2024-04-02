@@ -10,8 +10,8 @@
       "MongoDB",
       "SCSS"
     ],
-    "demo": "student-management-xi3t.vercel.app",
-    "source": "github.com/Minhtandev/student-management"
+    "demo": "https://student-management-xi3t.vercel.app",
+    "source": "https://github.com/Minhtandev/student-management"
   },
   {
     "title": "POPS movies",
@@ -25,7 +25,7 @@
       "SCSS",
       "Redux"
     ],
-    "demo": "pops-movie.vercel.app",
-    "source": "github.com/Minhtandev/pops-movie"
+    "demo": "https://pops-movie.vercel.app",
+    "source": "https://github.com/Minhtandev/pops-movie"
   }
 ]

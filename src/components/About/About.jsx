@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Education</h3>
               <p>
-              I hold a Bachelor's Degree of E-commerce in UIT - HCMU
+              I hold a Bachelor's Degree of E-commerce in UIT - HCMU with GPA 8.66/10 or 3.46/4
               </p>
             </div>
           </li>
