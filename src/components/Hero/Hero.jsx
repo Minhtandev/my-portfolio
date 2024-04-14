@@ -9,9 +9,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Tan Nguyen</h1>
         <p className={styles.description}>
-          I'm a frontend developer with 1 year of experience using ReactJS. Reach out if you'd like to learn more!
+          I'm a frontend developer with three years of researching, learning about web programming and one year of experience working as Frontend Developer with ReactJS. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <a href="#contact" className={styles.contactBtn}>
         <svg width="180px" height="60px" viewBox="0 0 180 60" class="border">
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="bg-line" />
           <polyline points="179,1 179,59 1,59 1,1 179,1" class="hl-line" />
